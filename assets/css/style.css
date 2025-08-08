@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
+        /* --light-beige: #F5F0E6;
+      --sand: #E6D3B3;
+      --golden-yellow: #D9B44A;
+      --caramel: #B88B4A;
+      --dark-brown: #5C3B1E;
+      --milky-white: #FFFDF7 */
+
+
+body {
+  font-family: "Funnel Display", sans-serif;
+}
+h1,
+h2,
+h3 {
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #252525;
+}
+.hidden-heading {
+  display: none;
+}
+#hero{
+    background-image: url(../images/hero-bg.jpg);
+    background-size: cover;
+    background-position: 50% 70%;
+    max-height: 600px;
+    padding: 5% 7%;
+   }
+#cover-text{
+    background-color: rgba(154, 119, 55, 0.6);
+    line-height: 1.5;
+    color: #FFFDF7;
+    
+}
