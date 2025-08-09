@@ -23,6 +23,12 @@ h3 {
   letter-spacing: 2px;
   color: #5C3B1E;;
 }
+.nav-item:hover{
+  text-decoration: underline;
+}
+.dropdown-item:hover{
+  background-color: #E6D3B3;
+}
 header{
   height: 100vh;
 }
@@ -39,7 +45,7 @@ header{
     height: 600px;
     width: 100%;
     padding: 5% 7%;
-    margin-bottom: 20px !important;
+    
 }
 #cover-text{
     background-color: rgba(154, 119, 55, 0.6);
