@@ -10,6 +10,8 @@
 body {
   font-family: "Funnel Display", sans-serif;
   background-color: #E6D3B3;
+  color: #5C3B1E;;
+  /* max-width: 1440px; */
 }
 section{
 }
@@ -19,7 +21,7 @@ h3 {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #252525;
+  color: #5C3B1E;;
 }
 header{
   height: 100vh;
@@ -53,3 +55,7 @@ header{
 .btn:focus{
   background-color: #B88B4A;
 }
+@media (min-width: 992px){
+.call-to-action.btn{
+  min-width:359px;
+}}
