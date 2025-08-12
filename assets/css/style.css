@@ -23,8 +23,11 @@ h3 {
   letter-spacing: 2px;
   color: #5C3B1E;;
 }
-nav{
-  position: fixed;
+navbar{
+  position: sticky !important;
+    top: 0px;
+    z-index: 999;
+
 }
 .nav-item:hover{
   text-decoration: underline;
