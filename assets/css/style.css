@@ -29,6 +29,9 @@ navbar{
     z-index: 999;
 
 }
+.is-hidden{
+  display: none;
+}
 .nav-item:hover{
   text-decoration: underline;
 }
