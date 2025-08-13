@@ -167,43 +167,50 @@
 </section>
 </main>
 
+<!-- Contact us -->
 
 <footer class="my-5">
 <section class="container" id="contact-us">
   <h2 class="h2 text-center">If you want know more about yoga in your city<br> text us</h2>
   <div class="row">
     <div class="col-12">
-      <form method="POST">
+      <form action="success.html">
         <div class="row mb-3">
-          <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+          <label for="name" class="col-sm-2 col-form-label">Your name</label>
           <div class="col-sm-10">
-            <input type="email" class="form-control" id="inputEmail3" required>
+            <input type="text" name="name" class="form-control" id="name" required>
           </div>
         </div>
         <div class="row mb-3">
-          <label for="comment" class="col-sm-2 col-form-label">Your question</label>
+          <label for="email" class="col-sm-2 col-form-label">Email</label>
           <div class="col-sm-10">
-            <textarea class="form-control" id="comment" name="question"></textarea>
+            <input type="email" name="email" class="form-control" id="email" required>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <label for="question" class="col-sm-2 col-form-label">Your question (optional)</label>
+          <div class="col-sm-10">
+            <textarea class="form-control" id="question" name="question"></textarea>
           </div>
         </div>
         <fieldset class="row mb-3">
-          <legend class="col-form-label col-sm-2 pt-0">Choose your city</legend>
+          <legend class="col-form-label col-sm-2 pt-0">Choose your city*</legend>
           <div class="col-sm-10">
             <div class="form-check">
-              <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="Dublin" checked>
-              <label class="form-check-label" for="gridRadios1">
+              <input class="form-check-input" type="radio" name="city" id="Dublin" value="Dublin" checked>
+              <label class="form-check-label" for="Dublin">
                 Dublin
               </label>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="Berlin">
-              <label class="form-check-label" for="gridRadios2">
+              <input class="form-check-input" type="radio" name="city" id="Berlin" value="Berlin">
+              <label class="form-check-label" for="Berlin">
                 Berlin
               </label>
             </div>
             <div class="form-check disabled">
-              <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="Paris">
-              <label class="form-check-label" for="gridRadios3">
+              <input class="form-check-input" type="radio" name="city" id="Paris" value="Paris">
+              <label class="form-check-label" for="Paris">
                 Paris
               </label>
             </div>
