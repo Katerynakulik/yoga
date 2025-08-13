@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
-        /* --light-beige: #F5F0E6;
+:root{
+   --light-beige: #F5F0E6;
       --sand: #E6D3B3;
       --golden-yellow: #D9B44A;
       --caramel: #B88B4A;
       --dark-brown: #5C3B1E;
-      --milky-white: #FFFDF7 */
+      --milky-white: #FFFDF7 }
 
 
 body {
