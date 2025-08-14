@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
 :root{
-   --light-beige: #F5F0E6;
-      --sand: #E6D3B3;
-      --golden-yellow: #D9B44A;
-      --caramel: #B88B4A;
-      --dark-brown: #5C3B1E;
-      --milky-white: #FFFDF7 }
+  --light-beige: #F5F0E6;
+  --sand: #E6D3B3;
+  --caramel: #B88B4A;
+  --dark-brown: #5C3B1E;
+  --milky-white: #FFFDF7 
+}
 
 
 body {
   font-family: "Funnel Display", sans-serif;
   background-color: #E6D3B3;
   color: #5C3B1E;;
-  /* max-width: 1440px; */
+  padding-top: 2em;
 }
 section{
   scroll-margin-top: 4em;
@@ -24,12 +24,6 @@ h3 {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #5C3B1E;;
-}
-navbar{
-  position: sticky !important;
-    top: 0px;
-    z-index: 999;
-
 }
 .is-hidden{
   display: none;
