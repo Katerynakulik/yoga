@@ -107,9 +107,25 @@ The "About" section provides a comprehensive overview of yoga, covering various 
 
 | Device  | Appearance |
 |---------|------------|
-| Mobile  | <img src="documentation/about_mobile_1.png" width="53" height="53"> <img src="documentation/about_mobile_2.png" width="53" height="53"> <img src="documentation/about_mobile_3.png" width="53" height="53"> <img src="documentation/about_mobile_4.png" width="53" height="53"> <img src="documentation/about_mobile_5.png" width="53" height="53"> <img src="documentation/about_mobile_6.png" width="53" height="53"> |
-| Tablet  | <img src="documentation/about_tablet_1.png" width="146" height="146"> <img src="documentation/about_tablet_2.png" width="146" height="146"> <img src="documentation/about_tablet_3.png" width="146" height="146"> <img src="documentation/about_tablet_4.png" width="146" height="146"> <img src="documentation/about_tablet_5.png" width="146" height="146"> |
-| Desktop | <img src="documentation/about_desktop_1.png" width="420" height="420"> <img src="documentation/about_desktop_2.png" width="420" height="420"> <img src="documentation/about_desktop_3.png" width="420" height="420"> |
+| Mobile  | <img src="documentation/about_mobile_1.png" width="110" height="160"> <img src="documentation/about_mobile_2.png" width="110" height="160"> <img src="documentation/about_mobile_3.png" width="110" height="160"> <img src="documentation/about_mobile_4.png" width="110" height="160"> <img src="documentation/about_mobile_5.png" width="110" height="160"> <img src="documentation/about_mobile_6.png" width="110" height="160"> |
+| Tablet  | <img src="documentation/about_tablet_1.png" width="400" height="200"> <img src="documentation/about_tablet_2.png" width="400" height="200"> <img src="documentation/about_tablet_3.png" width="400" height="200"> <img src="documentation/about_tablet_4.png" width="400" height="200"> <img src="documentation/about_tablet_5.png" width="400" height="200"> |
+| Desktop | <img src="documentation/about_desktop_1.png" width="620" height="420"> <img src="documentation/about_desktop_2.png" width="620" height="420"> <img src="documentation/about_desktop_3.png" width="620" height="420"> |
+
+### Take Your Inspiration
+
+A selection of beginner-friendly yoga videos, embedded from YouTube in a responsive card layout:
+
+| Video	| Description |
+| 30-Minute Yoga For Beginners | Full-body yoga session for beginners, 30 minutes.|
+| Gentle Yoga for Flexibility & Stress Reduction | Relaxing yoga flow to improve flexibility and reduce stress. |
+| Gentle Full Body Yoga Flow | Easy full-body yoga session suitable for beginners. |
+| Morning Yoga For Beginners | Short morning yoga routine to start your day energized.|
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | <img src="documentation/try_mobile_1.png" width="110" height="160"> <img src="documentation/try_mobile_2.png" width="110" height="160"> |
+| Tablet  | <img src="documentation/try_tablet_1.png" width="400" height="200">|
+| Desktop | <img src="documentation/try_desktop_1.png" width="620" height="420"> |
 
 
 
@@ -123,6 +139,11 @@ The "About" section provides a comprehensive overview of yoga, covering various 
 - **Framework**: This website was built primarily using [Bootstrap](https://getbootstrap.com/).
 - **Article in the block About by [Iryna Vizlou](https://www.vezha.org/sport-chy-duhovna-praktyka-shho-take-joga-i-yak-pravylno-neyu-zajmatys/) in Ukrainian translated with [Deepl](https://www.deepl.com/en/translator)
 - **In About block images:
--- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823075/), used under the [Pexels License](https://www.pexels.com/license/).
--- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/4534689/), used under the [Pexels License](https://www.pexels.com/license/).
--- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823043/), used under the [Pexels License](https://www.pexels.com/license/).
+- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823075/), used under the [Pexels License](https://www.pexels.com/license/).
+- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/4534689/), used under the [Pexels License](https://www.pexels.com/license/).
+- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823043/), used under the [Pexels License](https://www.pexels.com/license/).
+- **In section Take your inspiration:
+- video by [Yoga with Adriene](https://www.youtube.com/@yogawithadriene) from [Youtube](https://www.youtube.com/watch?v=AB3Y-4a3ZrU&t=6s&ab_channel=YogaWithAdriene)
+- video by [Yoga with Kassandra](https://www.youtube.com/@yogawithkassandra) from [Youtube](https://www.youtube.com/watch?v=EvMTrP8eRvM&t=3s&ab_channel=YogawithKassandra)
+- video by [Charlie Follows](https://www.youtube.com/@CharlieFollows) from [Youtube](https://www.youtube.com/watch?v=QcsvuCQd53k&t=2s&ab_channel=CharlieFollows)
+- video by [Yoga With Bird](https://www.youtube.com/@YogaWithBird) from [Youtube](https://www.youtube.com/watch?v=wRAtVLgj-wU&t=2s&ab_channel=YogaWithBird)
