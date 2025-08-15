@@ -94,13 +94,11 @@ The navbar is fixed to the top of the page, ensuring it is always visible as use
 
 ### Hero Section & Call to Action
 The hero section greets visitors with an inspiring quote from The Bhagavad Gita, placed prominently in large italic text to set the tone of the site. The text is aligned to the left within a wide column, ensuring readability while leaving space for the clean, minimalist layout. Below the quote, the call-to-action area invites users to choose their preferred yoga studio location. Three large, full-width buttons — styled with a secondary color and responsive sizing — direct visitors to city-specific pages for Berlin, Paris, and Dublin. On larger screens, these buttons align neatly in a row, while on smaller devices they stack vertically for optimal accessibility. The combination of an inspirational message and immediate navigation options creates both an emotional connection and a clear path forward for the user.
-
 | Device  | Appearance |
 |---------|------------|
-| Mobile  | ![Mobile view 1](documentation/hero_mobile_1.png) |
-| Mobile  | ![Mobile view 2](documentation/hero_mobile_2.png) |
-| Tablet  | ![Tablet view](documentation/hero_tablet_1.png) |
-| Desktop | ![Desktop view 1](documentation/hero-desktop.png) |
+| Mobile  | <img src="documentation/hero_mobile_1.png" width="110" height="160"> <img src="documentation/hero_mobile_2.png" width="110" height="160"> |
+| Tablet  | <img src="documentation/hero_tablet_1.png" width="400" height="200">|
+| Desktop | <img src="documentation/hero-desktop.png" width="620" height="420"> |
 
 ### About section or How to practice Yoga coorectly?
 The "About" section provides a comprehensive overview of yoga, covering various aspects of the practice. It clarifies whether yoga is a sport or a spiritual practice, highlighting its benefits for both physical and mental well-being. The section offers advice for beginners, such as finding an instructor and the importance of breathwork. It also includes recommendations for pregnant women and discusses the influence of yoga on nutrition and daily life. Quotes from instructor Iryna Vizlou add a personal and expert perspective.
@@ -127,18 +125,32 @@ A selection of beginner-friendly yoga videos, embedded from YouTube in a respons
 | Tablet  | <img src="documentation/try_tablet_1.png" width="400" height="200">|
 | Desktop | <img src="documentation/try_desktop_1.png" width="620" height="420"> |
 
+### Contact Us
+
+This section provides a contact form for users who want to learn more about yoga in their city. The form is designed with a responsive layout and includes the following fields:
+- Your name – required text input.
+- Email – required email input.
+- Your question – optional textarea for additional inquiries.
+- Choose your city – required selection via radio buttons (Dublin, Berlin, Paris).
+
+The form submits data to a success page (success.html) and is styled with Bootstrap for a clean and mobile-friendly appearance.
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | <img src="documentation/form_mobile.png" width="110" height="160"> <img src="documentation/try_mobile_2.png" width="110" height="160"> |
+| Tablet  | <img src="documentation/form_tablet.png" width="400" height="200">|
+| Desktop | <img src="documentation/try_desktop_1.png" width="620" height="420"> |
 
 
 
 
 
-
-#### Credits
+## Credits
 - **Background image** by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823063/), used under the [Pexels License](https://www.pexels.com/license/).
 - **Yoga icon** from [Flaticon](https://www.flaticon.com/free-icon/yoga_3456459).
 - **Framework**: This website was built primarily using [Bootstrap](https://getbootstrap.com/).
-- **Article in the block About by [Iryna Vizlou](https://www.vezha.org/sport-chy-duhovna-praktyka-shho-take-joga-i-yak-pravylno-neyu-zajmatys/) in Ukrainian translated with [Deepl](https://www.deepl.com/en/translator)
-- **In About block images:
+- **Article** in the block **About** by [Iryna Vizlou](https://www.vezha.org/sport-chy-duhovna-praktyka-shho-take-joga-i-yak-pravylno-neyu-zajmatys/) in Ukrainian translated with [Deepl](https://www.deepl.com/en/translator)
+- In **About block** images:
 - by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823075/), used under the [Pexels License](https://www.pexels.com/license/).
 - by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/4534689/), used under the [Pexels License](https://www.pexels.com/license/).
 - by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823043/), used under the [Pexels License](https://www.pexels.com/license/).
