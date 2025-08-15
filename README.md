@@ -290,3 +290,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | berlin.html | ![screenshot](documentation/lighthouse_berlin_m.png) | ![screenshot](documentation/lighthouse_berlin_d.png) |
 | 404.html | ![screenshot](documentation/lighthouse_404_m.png) | ![screenshot](documentation/lighthouse_404_d.png) |
 | success.html | ![screenshot](documentation/lighthouse_success_m.png) | ![screenshot](documentation/lighthouse_success_d.png) |
+
+### Bugs
+
+There are inaccuracies that I believe could be improved or changed. However, this would require consultation with a designer. Perhaps the blocks of text on the images need to be rearranged. Although I would prefer to hide three quarters of the text under the ‘read more’ button and process it using JavaScript. I did not find any obvious errors.
