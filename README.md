@@ -269,5 +269,24 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org/) to v
 | success.html | [Validate success.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fsuccess.html) | ![screenshot](documentation/success_html.png) |
 | paris.html | [Validate paris.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fparis.html) | ![screenshot](documentation/paris_html.png) |
 | dublin.html | [Validate dublin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fdublin.html) | ![screenshot](documentation/dublin_html.png) |
-| dublin.html | [Validate dublin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fdublin.html) | ![screenshot](documentation/dublin_html.png) |   
+| berlin.html | [Validate dublin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fberlin.html) | ![screenshot](documentation/berlin_html.png) |   
 | 404.html | [Validate 404.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2F404.html) | ![screenshot](documentation/404_html.png) |
+
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate one my CSS file.
+
+| style.css | [Validate style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/css.png) |
+
+### Lighthouse Audit
+
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+
+| Page | Mobile | Desktop |
+| --- | --- | --- |
+| index.html | [screenshot](documentation/lighthouse_index_m.png) | [screenshot](documentation/lighthouse_index_d.png) |
+| paris.html | [screenshot](documentation/lighthouse_paris_m.png) | [screenshot](documentation/lighthouse_paris_d.png) |
+| dublin.html | [screenshot](documentation/lighthouse_dublin_m.png) | [screenshot](documentation/lighthouse_dublin_d.png) |
+| berlin.html | [screenshot](documentation/lighthouse_berlin_m.png) | [screenshot](documentation/lighthouse_berlin_d.png) |
+| 404.html | [screenshot](documentation/lighthouse_404_m.png) | [screenshot](documentation/lighthouse_404_d.png) |
+| success.html | [screenshot](documentation/success.png) | [screenshot](documentation/lighthouse_success_d.png) |
