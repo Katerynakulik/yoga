@@ -11,12 +11,10 @@ Source: [Techsini Multi Device Website Mockup Generator](http://techsini.com/mul
 
 ---
 
-## 📋 Features
-- 📖 Introduction to Yoga  
-- 🖼️ Image gallery of yoga poses  
-- 🏙️ Pages with top 3 studios for Berlin, Paris, and Dublin  
-- 📬 Contact form with success page  
-- 🌍 Multi-page structure for easy navigation  
+## 📋 Built With
+- HTML5
+- CSS3
+- [Bootstrap 5](https://getbootstrap.com/) – used for responsive layout, grid system, and components
 
 ---
 
