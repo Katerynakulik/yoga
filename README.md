@@ -14,7 +14,7 @@ Source: [Techsini Multi Device Website Mockup Generator](http://techsini.com/mul
 ## 📋 Built With
 - HTML5
 - CSS3
-- [Bootstrap 5](https://getbootstrap.com/) – used for responsive layout, grid system, and components
+- [Bootstrap 5](https://getbootstrap.com/) – used for responsive layout, grid system, and components.
 
 ---
 
@@ -76,3 +76,29 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 - As a business owner, I want to collect information to improve website traffic.
 - As the business owner, I want customers to remain on my page even if they enter the address incorrectly, and be able to return to the home page with one click.
 - As a business owner, I want users who submit the contact form to be redirected to a “Thank You” page so that they know their message was sent and can easily return to the homepage.
+
+### Features
+
+## Navbar & City Dropdown
+
+The navbar is fixed to the top of the page, ensuring it is always visible as users scroll. On larger screens, it expands to show all menu items, while on smaller devices it collapses into a toggleable hamburger menu. The menu items include About, First Try, Ask us about yoga, and a dropdown for finding a yoga group in your city. The dropdown lists Dublin, Paris, and Berlin, allowing users to quickly navigate to city-specific pages. The navbar’s background color matches the site’s palette, maintaining visual consistency.
+
+- Mobile navbar
+
+![Mobile navbar](documentation/navbar_mobile.png)
+
+- Mobile navbar and 1 menu
+
+![Mobile navbar and 1 menu](documentation/navbar+1menu_mobile.png)
+
+- Mobile navbar and 2 menus
+
+![Mobile navbarand 2 menus](documentation/navbar+2menu_mobile.png)
+
+- Desktop navbar
+
+![Desktop navbar](documentation/navbar_desktop.png)
+
+- Desktop navbar and cities menu
+
+![Desktop navbar and cities menu](documentation/navbar+menu_desktop.png)
