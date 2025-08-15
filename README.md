@@ -40,11 +40,11 @@ The layout is fully responsive, ensuring that text remains easy to read and medi
 
 ### Colour Scheme
 
-- `#3a3a3a` Used for main home page text.
-- `#f5f5f5` Used for header and rest of site primary text.
-- `#3b4d66` Used as background for navbars and info boxes.
-- `#f2eace` Used as background for footer.
-- `#3b4d66` Used for social network icons and pop up navbar text.
+#F5F0E6 — used for button text.
+#5C3B1E — used for website text.
+#E6D3B3 — used as the website background.
+#B88B4A — used as the background for buttons.
+#FFFDF7 — used for main heading text.
 
 I used [Colormind](http://colormind.io/) to generate my colour palette from the hero image.
 
@@ -53,5 +53,6 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 ### Typography
 
 [Funnel Display](https://fonts.google.com/specimen/Funnel+Display) was used for the website.
+
 [Oswald](https://fonts.google.com/specimen/Oswald) was used for the headings.
 
