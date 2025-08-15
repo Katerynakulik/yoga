@@ -203,7 +203,7 @@ Top 3 Yoga Clubs in Dublin (according to Tripadvisor)
 | Device  | Appearance |
 |---------|------------|
 | Mobile  | <img src="documentation/dublin_mobile_1.png" width="100" height="160"> <img src="documentation/dublin_mobile_1.png" width="100" height="160"> |
-| Tablet  | <img src="documentation/dublin_tablet_horizont.png" width="400" height="200"> <img src="documentation/dublin_tablet.png.png" width="200" height="400">|
+| Tablet  | <img src="documentation/dublin_tablet_horizont.png" width="400" height="200"> <img src="documentation/dublin_tablet.png" width="200" height="400">|
 | Desktop | <img src="documentation/dublin_desktop.png" width="620" height="420"> |
 ---
 Top 3 Yoga Clubs in Paris (according to Tripadvisor)
@@ -211,7 +211,7 @@ Top 3 Yoga Clubs in Paris (according to Tripadvisor)
 | Club Name                   | Address                                                     | Google Maps Link | 
 |-----------------------------|-------------------------------------------------------------|------------------|
 | [Home Yoga Paris]()       | 8 Rue des Acacias, 75017 Paris, France                   | [View Map](https://maps.app.goo.gl/PWc1QqrNYGgxTKRKA) |
-| [Zen and Sounds]                 | 88 Boulevard de Charonne, 75020 Paris, France                  | [View Map](https://maps.app.goo.gl/1tVnxJm11ErR3uw29) |
+| [Zen and Sounds](https://www.tripadvisor.com/Attraction_Review-g187147-d16718679-Reviews-Zen_and_Sounds-Paris_Ile_de_France.html)                 | 88 Boulevard de Charonne, 75020 Paris, France                  | [View Map](https://maps.app.goo.gl/1tVnxJm11ErR3uw29) |
 | [Spa La Reserve](https://www.tripadvisor.com/Attraction_Review-g187147-d10859306-Reviews-Spa_La_Reserve-Paris_Ile_de_France.html)           | 42 Av. Gabriel, 75008 Paris, France               | [View Map](https://maps.app.goo.gl/ZsYLoHVsakbErbNb7) |
 
 *Source: [Tripadvisor Paris](https://www.tripadvisor.com/Attractions-g187147-Activities-c40-t260-Paris_Ile_de_France.html/)*
@@ -256,3 +256,7 @@ Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
 - video by [Charlie Follows](https://www.youtube.com/@CharlieFollows) from [Youtube](https://www.youtube.com/watch?v=QcsvuCQd53k&t=2s&ab_channel=CharlieFollows)
 - video by [Yoga With Bird](https://www.youtube.com/@YogaWithBird) from [Youtube](https://www.youtube.com/watch?v=wRAtVLgj-wU&t=2s&ab_channel=YogaWithBird)
 - City yoga club data and images for Dublin, Paris, and Berlin are based on **Tripadvisor** listings, integrated with **Google Maps** embeds for location display.
+
+## Code Validation
+
+### HTML
