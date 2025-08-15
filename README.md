@@ -284,9 +284,9 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop |
 | --- | --- | --- |
-| index.html | [screenshot](documentation/lighthouse_index_m.png) | [screenshot](documentation/lighthouse_index_d.png) |
-| paris.html | [screenshot](documentation/lighthouse_paris_m.png) | [screenshot](documentation/lighthouse_paris_d.png) |
-| dublin.html | [screenshot](documentation/lighthouse_dublin_m.png) | [screenshot](documentation/lighthouse_dublin_d.png) |
-| berlin.html | [screenshot](documentation/lighthouse_berlin_m.png) | [screenshot](documentation/lighthouse_berlin_d.png) |
-| 404.html | [screenshot](documentation/lighthouse_404_m.png) | [screenshot](documentation/lighthouse_404_d.png) |
-| success.html | [screenshot](documentation/success.png) | [screenshot](documentation/lighthouse_success_d.png) |
+| index.html | ![screenshot](documentation/lighthouse_index_m.png) | ![screenshot](documentation/lighthouse_index_d.png) |
+| paris.html | ![screenshot](documentation/lighthouse_paris_m.png) | ![screenshot](documentation/lighthouse_paris_d.png) |
+| dublin.html | ![screenshot](documentation/lighthouse_dublin_m.png) | ![screenshot](documentation/lighthouse_dublin_d.png) |
+| berlin.html | ![screenshot](documentation/lighthouse_berlin_m.png) | ![screenshot](documentation/lighthouse_berlin_d.png) |
+| 404.html | ![screenshot](documentation/lighthouse_404_m.png) | ![screenshot](documentation/lighthouse_404_d.png) |
+| success.html | ![screenshot](documentation/success.png) | ![screenshot](documentation/lighthouse_success_d.png) |
