@@ -180,7 +180,64 @@ To provide a friendly and branded error page that prevents visitors from leaving
 | Tablet  | <img src="documentation/404_tablet.png" width="400" height="200">|
 | Desktop | <img src="documentation/404_desktop.png" width="620" height="420"> |
 
+### 📍 City Yoga Clubs Section
 
+This section contains dedicated pages for different cities where users can find top-rated yoga clubs based on **Tripadvisor** recommendations.  
+Each city page features:
+
+- Title with city name and number of clubs listed  
+- Bootstrap-based responsive cards layout  
+- Image, address, and embedded Google Maps location for each club  
+- External links and resources credited in the "Credits" section  
+
+Top 3 Yoga Clubs in Dublin (according to Tripadvisor)
+
+| Club Name                | Address                                               | Google Maps Link |
+|--------------------------|-------------------------------------------------------|------------------|
+| [Anahata](https://www.tripadvisor.com/Attraction_Review-g186605-d2218126-Reviews-Anahata-Dublin_County_Dublin.html)                | 11 St Stephen's Green, Dublin 2, D02 FY84, Ireland    | [View Map](https://maps.app.goo.gl/kPwrVpm5r5bL1h9r9) |
+| [YogaHub](https://www.tripadvisor.com/Attraction_Review-g186605-d7700974-Reviews-YogaHub-Dublin_County_Dublin.html)                  | Co. Dublin, K67 P9C5, Ireland                         | [View Map](https://maps.app.goo.gl/5xjbGmEsAxFKbtMa7) |            |
+| [Live & Breathe Pilates](https://www.tripadvisor.com/Attraction_Review-g186605-d4366798-Reviews-Live_Breathe_Pilates-Dublin_County_Dublin.html)   | 20 Camden Row, Portobello, Dublin 8, Ireland          | [View Map](https://maps.app.goo.gl/1nvwMQf6Z6YxkzFh6) |            |
+
+*Source: [Tripadvisor Dublin](https://www.tripadvisor.com/Attractions-g186605-Activities-c40-t260-Dublin_County_Dublin.html)*
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | <img src="documentation/dublin_mobile_1.png" width="100" height="160"> <img src="documentation/dublin_mobile_1.png" width="100" height="160"> |
+| Tablet  | <img src="documentation/dublin_tablet_horizont.png" width="400" height="200"> <img src="documentation/dublin_tablet.png.png" width="200" height="400">|
+| Desktop | <img src="documentation/dublin_desktop.png" width="620" height="420"> |
+---
+Top 3 Yoga Clubs in Paris (according to Tripadvisor)
+
+| Club Name                   | Address                                                     | Google Maps Link | 
+|-----------------------------|-------------------------------------------------------------|------------------|
+| [Home Yoga Paris]()       | 8 Rue des Acacias, 75017 Paris, France                   | [View Map](https://maps.app.goo.gl/PWc1QqrNYGgxTKRKA) |
+| [Zen and Sounds]                 | 88 Boulevard de Charonne, 75020 Paris, France                  | [View Map](https://maps.app.goo.gl/1tVnxJm11ErR3uw29) |
+| [Spa La Reserve](https://www.tripadvisor.com/Attraction_Review-g187147-d10859306-Reviews-Spa_La_Reserve-Paris_Ile_de_France.html)           | 42 Av. Gabriel, 75008 Paris, France               | [View Map](https://maps.app.goo.gl/ZsYLoHVsakbErbNb7) |
+
+*Source: [Tripadvisor Paris](https://www.tripadvisor.com/Attractions-g187147-Activities-c40-t260-Paris_Ile_de_France.html/)*
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | <img src="documentation/paris_mobile_1.png" width="100" height="160"> <img src="documentation/paris_mobile_2.png" width="100" height="160"> |
+| Tablet  | <img src="documentation/paris_tablet_horizont.png" width="400" height="200"> <img src="documentation/paris_tablet_1.png" width="200" height="400">|
+| Desktop | <img src="documentation/paris_desktop.png" width="620" height="420"> |
+---
+Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
+
+| Club Name                   | Address                                                     | Google Maps Link |
+|-----------------------------|-------------------------------------------------------------|------------------|
+| [Yoga in English](https://www.tripadvisor.de/Attraction_Review-g187323-d2655792-Reviews-Yoga_in_English-Berlin.html)            | Reichenberger Str. 113A, 10999 Berlin,Germany                     | [View Map](https://maps.app.goo.gl/F2DrrfQ7Rb1ZYZWG7) |
+| [Holistic Yoga Berlin](https://www.tripadvisor.de/Attraction_Review-g187323-d6652130-Reviews-Holistic_Yoga_Berlin-Berlin.html)                 | Chodowieckistraße 28, 10405 Berlin, Germany                  | [View Map](https://maps.app.goo.gl/xNh4NXmvUw1PT9Bv6) |
+| [Ashtanga Yoga Room](https://www.tripadvisor.de/Attraction_Review-g187323-d9798721-Reviews-Ashtanga_Yoga_Room-Berlin.html)                 | Eitelstraße 85, 10317 Berlin, Germany                    | [View Map](https://maps.app.goo.gl/8rkGB6yUeS95Zh5L9) |
+
+*Source: [Tripadvisor in Berlin](https://www.tripadvisor.de/Attractions-g187323-Activities-c40-t260-Berlin.html)*
+
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | <img src="documentation/berlin_mobile_1.png" width="100" height="160"> <img src="documentation/berlin_mobile_2.png" width="100" height="160"> |
+| Tablet  | <img src="documentation/berlin_tablet_horizont.png" width="400" height="200"> <img src="documentation/berlin_tablet.png" width="200" height="400">|
+| Desktop | <img src="documentation/berlin_desktop.png" width="620" height="420"> |
 
 
 ## Credits
@@ -198,3 +255,4 @@ To provide a friendly and branded error page that prevents visitors from leaving
 - video by [Yoga with Kassandra](https://www.youtube.com/@yogawithkassandra) from [Youtube](https://www.youtube.com/watch?v=EvMTrP8eRvM&t=3s&ab_channel=YogawithKassandra)
 - video by [Charlie Follows](https://www.youtube.com/@CharlieFollows) from [Youtube](https://www.youtube.com/watch?v=QcsvuCQd53k&t=2s&ab_channel=CharlieFollows)
 - video by [Yoga With Bird](https://www.youtube.com/@YogaWithBird) from [Youtube](https://www.youtube.com/watch?v=wRAtVLgj-wU&t=2s&ab_channel=YogaWithBird)
+- City yoga club data and images for Dublin, Paris, and Berlin are based on **Tripadvisor** listings, integrated with **Google Maps** embeds for location display.
