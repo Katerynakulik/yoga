@@ -83,25 +83,14 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 
 The navbar is fixed to the top of the page, ensuring it is always visible as users scroll. On larger screens, it expands to show all menu items, while on smaller devices it collapses into a toggleable hamburger menu. The menu items include About, First Try, Ask us about yoga, and a dropdown for finding a yoga group in your city. The dropdown lists Dublin, Paris, and Berlin, allowing users to quickly navigate to city-specific pages. The navbar’s background color matches the site’s palette, maintaining visual consistency.
 
-- Mobile navbar
 
-![Mobile navbar](documentation/navbar_mobile.png)
-
-- Mobile navbar and 1 menu
-
-![Mobile navbar and 1 menu](documentation/navbar+1menu_mobile.png)
-
-- Mobile navbar and 2 menus
-
-![Mobile navbarand 2 menus](documentation/navbar+2menu_mobile.png)
-
-- Desktop navbar
-
-![Desktop navbar](documentation/navbar_desktop.png)
-
-- Desktop navbar and cities menu
-
-![Desktop navbar and cities menu](documentation/navbar+menu_desktop.png)
+| Type  | Appearance |
+|---------|------------|
+| Mobile / Tablet | ![Mobile navbar](documentation/navbar_mobile.png) |
+| Mobile / Tablet | ![Mobile navbar and 1 menu](documentation/navbar+1menu_mobile.png) |
+| Mobile / Tablet | ![Mobile navbarand 2 menus](documentation/navbar+2menu_mobile.png) |
+| Desktop | ![Desktop navbar](documentation/navbar_desktop.png) |
+| Desktop | ![Desktop navbar and cities menu](documentation/navbar+menu_desktop.png) |
 
 ### Hero Section & Call to Action
 The hero section greets visitors with an inspiring quote from The Bhagavad Gita, placed prominently in large italic text to set the tone of the site. The text is aligned to the left within a wide column, ensuring readability while leaving space for the clean, minimalist layout. Below the quote, the call-to-action area invites users to choose their preferred yoga studio location. Three large, full-width buttons — styled with a secondary color and responsive sizing — direct visitors to city-specific pages for Berlin, Paris, and Dublin. On larger screens, these buttons align neatly in a row, while on smaller devices they stack vertically for optimal accessibility. The combination of an inspirational message and immediate navigation options creates both an emotional connection and a clear path forward for the user.
