@@ -100,10 +100,28 @@ The hero section greets visitors with an inspiring quote from The Bhagavad Gita,
 | Mobile  | ![Mobile view 1](documentation/hero_mobile_1.png) |
 | Mobile  | ![Mobile view 2](documentation/hero_mobile_2.png) |
 | Tablet  | ![Tablet view](documentation/hero_tablet_1.png) |
-| Desktop | ![Desktop view 1](./documentation/hero-desktop.png) |
+| Desktop | ![Desktop view 1](documentation/hero-desktop.png) |
+
+### About section or How to practice Yoga coorectly?
+The "About" section provides a comprehensive overview of yoga, covering various aspects of the practice. It clarifies whether yoga is a sport or a spiritual practice, highlighting its benefits for both physical and mental well-being. The section offers advice for beginners, such as finding an instructor and the importance of breathwork. It also includes recommendations for pregnant women and discusses the influence of yoga on nutrition and daily life. Quotes from instructor Iryna Vizlou add a personal and expert perspective.
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | ![Mobile view 1](documentation/about_mobile_1.png) ![Mobile view 2](documentation/about_mobile_2.png) ![Mobile view 3](documentation/about_mobile_3.png) ![Mobile view 4](documentation/about_mobile_4.png) ![Mobile view 5](documentation/about_mobile_5.png) ![Mobile view 6](documentation/about_mobile_6.png)|
+| Tablet  | ![Tablet view 1](documentation/about_tablet_1.png) ![Tablet view 2](documentation/about_tablet_2.png) ![Tablet view 3](documentation/about_tablet_3.png) ![Tablet view 4](documentation/about_tablet_4.png) ![Tablet view 5](documentation/about_tablet_5.png)|
+| Desktop | ![Desktop view 1](documentation/about_desktop_1.png) ![Desktop view 2](documentation/about_desktop_2.png) ![Desktop view 3](documentation/about_desktop_3.png)|
+
+
+
+
 
 
 #### Credits
 - **Background image** by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823063/), used under the [Pexels License](https://www.pexels.com/license/).
 - **Yoga icon** from [Flaticon](https://www.flaticon.com/free-icon/yoga_3456459).
 - **Framework**: This website was built primarily using [Bootstrap](https://getbootstrap.com/).
+- **Article in the block About by [Iryna Vizlou](https://www.vezha.org/sport-chy-duhovna-praktyka-shho-take-joga-i-yak-pravylno-neyu-zajmatys/) in Ukrainian translated with [Deepl](https://www.deepl.com/en/translator)
+- **In About block images:
+-- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823075/), used under the [Pexels License](https://www.pexels.com/license/).
+-- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/4534689/), used under the [Pexels License](https://www.pexels.com/license/).
+-- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823043/), used under the [Pexels License](https://www.pexels.com/license/).
