@@ -105,11 +105,12 @@ The hero section greets visitors with an inspiring quote from The Bhagavad Gita,
 ### About section or How to practice Yoga coorectly?
 The "About" section provides a comprehensive overview of yoga, covering various aspects of the practice. It clarifies whether yoga is a sport or a spiritual practice, highlighting its benefits for both physical and mental well-being. The section offers advice for beginners, such as finding an instructor and the importance of breathwork. It also includes recommendations for pregnant women and discusses the influence of yoga on nutrition and daily life. Quotes from instructor Iryna Vizlou add a personal and expert perspective.
 
-| Device  | Appearance 1| Appearance 2| Appearance 3| Appearance 4| Appearance 5| Appearance 6|
+| Device  | Appearance |
 |---------|------------|
-| Mobile  | ![Mobile view 1](documentation/about_mobile_1.png) | ![Mobile view 2](documentation/about_mobile_2.png) | ![Mobile view 3](documentation/about_mobile_3.png) | ![Mobile view 4](documentation/about_mobile_4.png) | ![Mobile view 5](documentation/about_mobile_5.png) | ![Mobile view 6](documentation/about_mobile_6.png)|
-| Tablet  | ![Tablet view 1](documentation/about_tablet_1.png) | ![Tablet view 2](documentation/about_tablet_2.png) | ![Tablet view 3](documentation/about_tablet_3.png) | ![Tablet view 4](documentation/about_tablet_4.png) | ![Tablet view 5](documentation/about_tablet_5.png)|
-| Desktop | ![Desktop view 1](documentation/about_desktop_1.png) | ![Desktop view 2](documentation/about_desktop_2.png) | ![Desktop view 3](documentation/about_desktop_3.png)|
+| Mobile  | <img src="documentation/about_mobile_1.png" width="53" height="53"> <img src="documentation/about_mobile_2.png" width="53" height="53"> <img src="documentation/about_mobile_3.png" width="53" height="53"> <img src="documentation/about_mobile_4.png" width="53" height="53"> <img src="documentation/about_mobile_5.png" width="53" height="53"> <img src="documentation/about_mobile_6.png" width="53" height="53"> |
+| Tablet  | <img src="documentation/about_tablet_1.png" width="146" height="146"> <img src="documentation/about_tablet_2.png" width="146" height="146"> <img src="documentation/about_tablet_3.png" width="146" height="146"> <img src="documentation/about_tablet_4.png" width="146" height="146"> <img src="documentation/about_tablet_5.png" width="146" height="146"> |
+| Desktop | <img src="documentation/about_desktop_1.png" width="420" height="420"> <img src="documentation/about_desktop_2.png" width="420" height="420"> <img src="documentation/about_desktop_3.png" width="420" height="420"> |
+
 
 
 
