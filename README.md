@@ -58,7 +58,7 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 
 ### User Stories
 
-##New Site Users
+## New Site Users
 
 - As a user, I know a little about yoga but want to try exercises on my own, because I feel shy and fear I might do them wrong.
 - As a user, I want to see a section about yoga with examples of poses, so I can understand what yoga is and what exercises I can do.
@@ -67,12 +67,12 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 - As a user, I want to conveniently search for information about what yoga is, find yoga in my city if it exists on the site, or ask an additional question, so that I can quickly get the information I need.
 - As an experienced yoga practitioner moving to Dublin, I want to find local communities or support groups so I can integrate into the local yoga scene.
 
-##Returning Site Users
+## Returning Site Users
 
 - As a user, I want to conveniently search for information about what yoga is, find yoga in my city if it exists on the site, or ask an additional question, so that I can quickly get the information I need.
 - As a user, I want the “Success” page to display links to existing city pages and show relevant advertiser banners based on keywords from users’ questions, so that users can continue exploring the site and advertisers get exposure in contextually relevant locations.
 
-##Business Goals
+## Business Goals
 
 - As a business owner, I want to display advertisements from content creators and offline yoga studios on my website, so that I can generate additional revenue and promote relevant partners to my users.
 - As a business owner, I want to collect information to improve website traffic.
