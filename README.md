@@ -111,13 +111,11 @@ The "About" section provides a comprehensive overview of yoga, covering various 
 
 ### Take Your Inspiration
 
-A selection of beginner-friendly yoga videos, embedded from YouTube in a responsive card layout:
+This section features a curated selection of YouTube videos for beginners, focusing on yoga, stretching, and mindfulness exercises. The videos are presented in a responsive card layout, with 1–4 columns depending on screen size, making it easy to explore and try at your own pace.
 
-| Video	| Description |
-| 30-Minute Yoga For Beginners | Full-body yoga session for beginners, 30 minutes.|
-| Gentle Yoga for Flexibility & Stress Reduction | Relaxing yoga flow to improve flexibility and reduce stress. |
-| Gentle Full Body Yoga Flow | Easy full-body yoga session suitable for beginners. |
-| Morning Yoga For Beginners | Short morning yoga routine to start your day energized.|
+Responsive design – adapts from mobile to desktop screens using Bootstrap grid system.
+Content type – embedded YouTube videos with descriptive titles for quick identification.
+*Purpose* – to provide inspiration and guidance for beginners looking to start their yoga or fitness journey.
 
 | Device  | Appearance |
 |---------|------------|
