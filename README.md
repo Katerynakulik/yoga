@@ -107,9 +107,9 @@ The "About" section provides a comprehensive overview of yoga, covering various 
 
 | Device  | Appearance |
 |---------|------------|
-| Mobile  | ![Mobile view 1](documentation/about_mobile_1.png) ![Mobile view 2](documentation/about_mobile_2.png) ![Mobile view 3](documentation/about_mobile_3.png) ![Mobile view 4](documentation/about_mobile_4.png) ![Mobile view 5](documentation/about_mobile_5.png) ![Mobile view 6](documentation/about_mobile_6.png)|
-| Tablet  | ![Tablet view 1](documentation/about_tablet_1.png) ![Tablet view 2](documentation/about_tablet_2.png) ![Tablet view 3](documentation/about_tablet_3.png) ![Tablet view 4](documentation/about_tablet_4.png) ![Tablet view 5](documentation/about_tablet_5.png)|
-| Desktop | ![Desktop view 1](documentation/about_desktop_1.png) ![Desktop view 2](documentation/about_desktop_2.png) ![Desktop view 3](documentation/about_desktop_3.png)|
+| Mobile  | ![Mobile view 1](documentation/about_mobile_1.png) | ![Mobile view 2](documentation/about_mobile_2.png) | ![Mobile view 3](documentation/about_mobile_3.png) | ![Mobile view 4](documentation/about_mobile_4.png) | ![Mobile view 5](documentation/about_mobile_5.png) | ![Mobile view 6](documentation/about_mobile_6.png)|
+| Tablet  | ![Tablet view 1](documentation/about_tablet_1.png) | ![Tablet view 2](documentation/about_tablet_2.png) | ![Tablet view 3](documentation/about_tablet_3.png) | ![Tablet view 4](documentation/about_tablet_4.png) | ![Tablet view 5](documentation/about_tablet_5.png)|
+| Desktop | ![Desktop view 1](documentation/about_desktop_1.png) | ![Desktop view 2](documentation/about_desktop_2.png) | ![Desktop view 3](documentation/about_desktop_3.png)|
 
 
 
