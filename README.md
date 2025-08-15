@@ -260,3 +260,14 @@ Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
 ## Code Validation
 
 ### HTML
+
+I have used the recommended [HTML W3C Validator](https://validator.w3.org/) to validate all of my HTML files.
+
+| File | Link | Screenshot |
+| --- | --- | --- |
+| index.html | [Validate index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Findex.html) | ![screenshot](documentation/index_html.png) |
+| success.html | [Validate success.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fsuccess.html) | ![screenshot](documentation/success_html.png) |
+| paris.html | [Validate paris.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fparis.html) | ![screenshot](documentation/paris_html.png) |
+| dublin.html | [Validate dublin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fdublin.html) | ![screenshot](documentation/dublin_html.png) |
+| dublin.html | [Validate dublin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fdublin.html) | ![screenshot](documentation/dublin_html.png) |   
+| 404.html | [Validate 404.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2F404.html) | ![screenshot](documentation/404_html.png) |
