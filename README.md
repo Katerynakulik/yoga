@@ -161,12 +161,32 @@ To confirm a successful form submission, maintain consistent navigation, and enc
 | Tablet  | <img src="documentation/success-tablet.png" width="400" height="200">|
 | Desktop | <img src="documentation/success_desktop.png" width="620" height="420"> |
 
+### 404 Error Page
 
+This page is displayed when a user navigates to a non-existent URL on the website.
+It informs the visitor that the page could not be found and keeps the main site navigation accessible for easy redirection.
+
+**Key features**:
+
+- Responsive design – built with Bootstrap to adapt across all screen sizes.
+- Fixed navigation bar – includes links to the main sections (About, First try, Ask us about yoga) and a dropdown menu for -city-specific yoga groups (Dublin, Paris, Berlin).
+- Hero section – clear and minimal message: “Error 404 – This page does not exist.”
+- Consistent branding – same color scheme, typography, and favicon as the rest of the site.
+
+*Purpose*:
+To provide a friendly and branded error page that prevents visitors from leaving the site by offering quick navigation back to valid pages.
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | <img src="documentation/404_mobile.png" width="100" height="160"> |
+| Tablet  | <img src="documentation/404_tablet.png" width="400" height="200">|
+| Desktop | <img src="documentation/404_desktop.png" width="620" height="420"> |
 
 
 
 
 ## Credits
+- **Favicon** by [DynosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from [FLATICON](https://www.flaticon.com/free-icon/yoga_3456459).
 - **Background image** by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823063/), used under the [Pexels License](https://www.pexels.com/license/).
 - **Yoga icon** from [Flaticon](https://www.flaticon.com/free-icon/yoga_3456459).
 - **Framework**: This website was built primarily using [Bootstrap](https://getbootstrap.com/).
