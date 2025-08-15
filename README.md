@@ -121,7 +121,7 @@ A selection of beginner-friendly yoga videos, embedded from YouTube in a respons
 
 | Device  | Appearance |
 |---------|------------|
-| Mobile  | <img src="documentation/try_mobile_1.png" width="110" height="160"> <img src="documentation/try_mobile_2.png" width="110" height="160"> |
+| Mobile  | <img src="documentation/try_mobile_1.png" width="100" height="160"> <img src="documentation/try_mobile_2.png" width="100" height="160"> |
 | Tablet  | <img src="documentation/try_tablet_1.png" width="400" height="200">|
 | Desktop | <img src="documentation/try_desktop_1.png" width="620" height="420"> |
 
@@ -137,9 +137,30 @@ The form submits data to a success page (success.html) and is styled with Bootst
 
 | Device  | Appearance |
 |---------|------------|
-| Mobile  | <img src="documentation/form_mobile.png" width="110" height="160"> <img src="documentation/try_mobile_2.png" width="110" height="160"> |
+| Mobile  | <img src="documentation/form_mobile.png" width="100" height="160"> |
 | Tablet  | <img src="documentation/form_tablet.png" width="400" height="200">|
 | Desktop | <img src="documentation/try_desktop_1.png" width="620" height="420"> |
+
+### Thank You Page
+
+This page is displayed after a user successfully submits the contact form.
+It serves as a confirmation that the message was received and expresses gratitude to the visitor.
+
+**Key features**:
+
+- Responsive design – built with Bootstrap for compatibility across mobile, tablet, and desktop.
+- Fixed navigation bar – includes quick links to main sections (About, First try, Ask us about yoga) and a dropdown to find local yoga groups (Dublin, Paris, Berlin).
+- Hero section – centered message with a large “Thank you!” heading and a short follow-up text.
+- Brand identity – custom favicon, Google Fonts integration (Funnel Display, Oswald, Raleway, Roboto) for consistent typography.
+
+*Purpose*:
+To confirm a successful form submission, maintain consistent navigation, and encourage visitors to continue exploring yoga content on the site.
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | <img src="documentation/success_mobile.png" width="100" height="160"> |
+| Tablet  | <img src="documentation/success-tablet.png" width="400" height="200">|
+| Desktop | <img src="documentation/success_desktop.png" width="620" height="420"> |
+
 
 
 
@@ -154,7 +175,7 @@ The form submits data to a success page (success.html) and is styled with Bootst
 - by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823075/), used under the [Pexels License](https://www.pexels.com/license/).
 - by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/4534689/), used under the [Pexels License](https://www.pexels.com/license/).
 - by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823043/), used under the [Pexels License](https://www.pexels.com/license/).
-- **In section Take your inspiration:
+- In section **Take your inspiration**:
 - video by [Yoga with Adriene](https://www.youtube.com/@yogawithadriene) from [Youtube](https://www.youtube.com/watch?v=AB3Y-4a3ZrU&t=6s&ab_channel=YogaWithAdriene)
 - video by [Yoga with Kassandra](https://www.youtube.com/@yogawithkassandra) from [Youtube](https://www.youtube.com/watch?v=EvMTrP8eRvM&t=3s&ab_channel=YogawithKassandra)
 - video by [Charlie Follows](https://www.youtube.com/@CharlieFollows) from [Youtube](https://www.youtube.com/watch?v=QcsvuCQd53k&t=2s&ab_channel=CharlieFollows)
