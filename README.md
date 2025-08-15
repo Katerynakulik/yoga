@@ -77,9 +77,9 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 - As the business owner, I want customers to remain on my page even if they enter the address incorrectly, and be able to return to the home page with one click.
 - As a business owner, I want users who submit the contact form to be redirected to a “Thank You” page so that they know their message was sent and can easily return to the homepage.
 
-### Features
+## Features
 
-## Navbar & City Dropdown
+### Navbar & City Dropdown
 
 The navbar is fixed to the top of the page, ensuring it is always visible as users scroll. On larger screens, it expands to show all menu items, while on smaller devices it collapses into a toggleable hamburger menu. The menu items include About, First Try, Ask us about yoga, and a dropdown for finding a yoga group in your city. The dropdown lists Dublin, Paris, and Berlin, allowing users to quickly navigate to city-specific pages. The navbar’s background color matches the site’s palette, maintaining visual consistency.
 
@@ -102,3 +102,19 @@ The navbar is fixed to the top of the page, ensuring it is always visible as use
 - Desktop navbar and cities menu
 
 ![Desktop navbar and cities menu](documentation/navbar+menu_desktop.png)
+
+### Hero Section & Call to Action
+The hero section greets visitors with an inspiring quote from The Bhagavad Gita, placed prominently in large italic text to set the tone of the site. The text is aligned to the left within a wide column, ensuring readability while leaving space for the clean, minimalist layout. Below the quote, the call-to-action area invites users to choose their preferred yoga studio location. Three large, full-width buttons — styled with a secondary color and responsive sizing — direct visitors to city-specific pages for Berlin, Paris, and Dublin. On larger screens, these buttons align neatly in a row, while on smaller devices they stack vertically for optimal accessibility. The combination of an inspirational message and immediate navigation options creates both an emotional connection and a clear path forward for the user.
+
+| Device  | Appearance |
+|---------|------------|
+| Mobile  | ![Mobile view 1](documentation/hero_mobile_1.png) |
+| Mobile  | ![Mobile view 2](documentation/hero_mobile_2.png) |
+| Tablet  | ![Tablet view](documentation/hero_tablet_1.png) |
+| Desktop | ![Desktop view 1](./documentation/hero-desktop.png) |
+
+
+#### Credits
+- **Background image** by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823063/), used under the [Pexels License](https://www.pexels.com/license/).
+- **Yoga icon** from [Flaticon](https://www.flaticon.com/free-icon/yoga_3456459).
+- **Framework**: This website was built primarily using [Bootstrap](https://getbootstrap.com/).
