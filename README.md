@@ -317,7 +317,7 @@ Validated with [W3C Validator](https://validator.w3.org/).
 
 Validated with [W3C Jigsaw Validator](https://jigsaw.w3.org/css-validator).
 
-| style.css | [Validate style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/css.png) |
+[Validate style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)  ![screenshot](documentation/css.png) 
 
 ### Lighthouse Audit
 
