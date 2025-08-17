@@ -1,6 +1,6 @@
 # 🧘 Yoga Website
 
-This is a website for people who are just starting to get into yoga or are looking for a community in **Paris, Dublin, or Berlin** to practise yoga in a group. You can get more info about yoga in these cities or about the practice in general by asking the website. The website features an article about yoga practice for beginners, combining it with meditation, nutrition, general information about yoga classes, and yoga for pregnant women. Accordingly, the target audience is mostly women who would like to try it..
+This is a website for people who are just starting to get into yoga or are looking for a community in **Paris, Dublin, or Berlin** to practise yoga in a group. You can get more info about yoga in these cities or about the practice in general by asking the website. The website features an article about yoga practice for beginners, combining it with meditation, nutrition, general information about yoga classes, and yoga for pregnant women. Accordingly, the target audience is mostly women who would like to try it.
 
 ![4 different screens](documentation/4_different_views.png)
 
@@ -50,27 +50,27 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 
 ### Typography
 
-[Funnel Display](https://fonts.google.com/specimen/Funnel+Display) was used for the website.
+[Funnel Display](https://fonts.google.com/specimen/Funnel+Display) was used for the headings.
 
 [Oswald](https://fonts.google.com/specimen/Oswald) was used for the headings.
 
-### User Stories
+## User Stories
 
-## New Site Users
+### New Site Users
 
-- As a user, I know a little about yoga but want to try exercises on my own, because I feel shy and fear I might do them wrong.
+- As a user, I know a little about yoga but want to try exercises on my own, because I prefer to practice at home first and build confidence.
 - As a user, I want to see a section about yoga with examples of poses, so I can understand what yoga is and what exercises I can do.
 - As a visitor, I want to see a welcoming section that quickly introduces the website, so I immediately understand its purpose.
-- As a user moving to a new city, I want to see the top 3 yoga studios in the city so that I can quickly find a place to practice.
+- As a user moving to a new city, I want to see the top 3 yoga studios in the city to quickly find a place to practice.
 - As a user, I want to conveniently search for information about what yoga is, find yoga in my city if it exists on the site, or ask an additional question, so that I can quickly get the information I need.
 - As an experienced yoga practitioner moving to Dublin, I want to find local communities or support groups so I can integrate into the local yoga scene.
 
-## Returning Site Users
+### Returning Site Users
 
 - As a user, I want to conveniently search for information about what yoga is, find yoga in my city if it exists on the site, or ask an additional question, so that I can quickly get the information I need.
 - As a user, I want the “Success” page to display links to existing city pages and show relevant advertiser banners based on keywords from users’ questions, so that users can continue exploring the site and advertisers get exposure in contextually relevant locations.
 
-## Business Goals
+### Business Goals
 
 - As a business owner, I want to display advertisements from content creators and offline yoga studios on my website, so that I can generate additional revenue and promote relevant partners to my users.
 - As a business owner, I want to collect information to improve website traffic.
@@ -81,27 +81,46 @@ I used [Colormind](http://colormind.io/) to generate my colour palette from the 
 
 ### Navbar & City Dropdown
 
-The navbar is fixed to the top of the page, ensuring it is always visible as users scroll. On larger screens, it expands to show all menu items, while on smaller devices it collapses into a toggleable hamburger menu. The menu items include About, First Try, Ask us about yoga, and a dropdown for finding a yoga group in your city. The dropdown lists Dublin, Paris, and Berlin, allowing users to quickly navigate to city-specific pages. The navbar’s background color matches the site’s palette, maintaining visual consistency.
+Main navigation menu available on every page.  
+
+**Features:**  
+- Links to all main sections of the site (Home, About, Inspiration, Cities, Contact).  
+- Responsive design with a dropdown menu on smaller screens.  
+- Consistent position across all pages for easy access.  
+
+**Purpose:**  
+Ensure smooth navigation throughout the website and help users quickly find the information they need.  
 
 
 | Type  | Appearance |
 |---------|------------|
 | Mobile / Tablet | ![Mobile navbar](documentation/navbar_mobile.png) |
 | Mobile / Tablet | ![Mobile navbar and 1 menu](documentation/navbar+1menu_mobile.png) |
-| Mobile / Tablet | ![Mobile navbarand 2 menus](documentation/navbar+2menu_mobile.png) |
+| Mobile / Tablet | ![Mobile navbar and 2 menus](documentation/navbar+2menu_mobile.png) |
 | Desktop | ![Desktop navbar](documentation/navbar_desktop.png) |
 | Desktop | ![Desktop navbar and cities menu](documentation/navbar+menu_desktop.png) |
 
 ### Hero Section & Call to Action
+
 The hero section greets visitors with an inspiring quote from The Bhagavad Gita, placed prominently in large italic text to set the tone of the site. The text is aligned to the left within a wide column, ensuring readability while leaving space for the clean, minimalist layout. Below the quote, the call-to-action area invites users to choose their preferred yoga studio location. Three large, full-width buttons — styled with a secondary color and responsive sizing — direct visitors to city-specific pages for Berlin, Paris, and Dublin. On larger screens, these buttons align neatly in a row, while on smaller devices they stack vertically for optimal accessibility. The combination of an inspirational message and immediate navigation options creates both an emotional connection and a clear path forward for the user.
+
 | Device  | Appearance |
 |---------|------------|
 | Mobile  | <img src="documentation/hero_mobile_1.png" width="110" height="160"> <img src="documentation/hero_mobile_2.png" width="110" height="160"> |
 | Tablet  | <img src="documentation/hero_tablet_1.png" width="400" height="200">|
 | Desktop | <img src="documentation/hero-desktop.png" width="620" height="420"> |
 
-### About section or How to practice Yoga coorectly?
-The "About" section provides a comprehensive overview of yoga, covering various aspects of the practice. It clarifies whether yoga is a sport or a spiritual practice, highlighting its benefits for both physical and mental well-being. The section offers advice for beginners, such as finding an instructor and the importance of breathwork. It also includes recommendations for pregnant women and discusses the influence of yoga on nutrition and daily life. Quotes from instructor Iryna Vizlou add a personal and expert perspective.
+### About section or How to practice Yoga correctly?
+
+This section introduces users to yoga, its benefits, and basic poses.  
+
+**Features:**  
+- Article translated from Ukrainian about yoga practice.  
+- Introductory explanation of what yoga is.  
+- Illustrative images of poses to support text content.  
+
+**Purpose:**  
+Provide beginners with accessible information and a visual introduction to yoga.  
 
 | Device  | Appearance |
 |---------|------------|
@@ -111,11 +130,15 @@ The "About" section provides a comprehensive overview of yoga, covering various 
 
 ### Take Your Inspiration
 
-This section features a curated selection of YouTube videos for beginners, focusing on yoga, stretching, and mindfulness exercises. The videos are presented in a responsive card layout, with 1–4 columns depending on screen size, making it easy to explore and try at your own pace.
+A collection of beginner-friendly yoga videos from popular YouTube creators.  
 
-Responsive design – adapts from mobile to desktop screens using Bootstrap grid system.
-Content type – embedded YouTube videos with descriptive titles for quick identification.
-*Purpose* – to provide inspiration and guidance for beginners looking to start their yoga or fitness journey.
+**Features:**  
+- Four embedded videos with different durations (10–30 minutes).  
+- Short descriptions of what each session includes.  
+- Focus on beginners and accessible practice at home.  
+
+**Purpose:**  
+Offer users guided practice options that suit their time and needs. 
 
 | Device  | Appearance |
 |---------|------------|
@@ -167,7 +190,7 @@ It informs the visitor that the page could not be found and keeps the main site 
 **Key features**:
 
 - Responsive design – built with Bootstrap to adapt across all screen sizes.
-- Fixed navigation bar – includes links to the main sections (About, First try, Ask us about yoga) and a dropdown menu for -city-specific yoga groups (Dublin, Paris, Berlin).
+- Fixed navigation bar – includes links to the main sections (About, First try, Ask us about yoga) and a dropdown menu for city-specific yoga groups (Dublin, Paris, Berlin).
 - Hero section – clear and minimal message: “Error 404 – This page does not exist.”
 - Consistent branding – same color scheme, typography, and favicon as the rest of the site.
 
@@ -180,15 +203,17 @@ To provide a friendly and branded error page that prevents visitors from leaving
 | Tablet  | <img src="documentation/404_tablet.png" width="400" height="200">|
 | Desktop | <img src="documentation/404_desktop.png" width="620" height="420"> |
 
-### 📍 City Yoga Clubs Section
+### 📍 City Pages (Paris, Dublin, Berlin)
 
-This section contains dedicated pages for different cities where users can find top-rated yoga clubs based on **Tripadvisor** recommendations.  
-Each city page features:
+Individual city pages showcasing local yoga studios and communities.  
 
-- Title with city name and number of clubs listed  
-- Bootstrap-based responsive cards layout  
-- Image, address, and embedded Google Maps location for each club  
-- External links and resources credited in the "Credits" section  
+**Features:**  
+- Top 3 yoga clubs in each city.  
+- Images and descriptions based on **Tripadvisor** listings.  
+- Embedded Google Maps for location context.  
+
+**Purpose:**  
+Help newcomers quickly find local yoga communities and places to practice.  
 
 Top 3 Yoga Clubs in Dublin (according to Tripadvisor)
 
@@ -210,7 +235,7 @@ Top 3 Yoga Clubs in Paris (according to Tripadvisor)
 
 | Club Name                   | Address                                                     | Google Maps Link | 
 |-----------------------------|-------------------------------------------------------------|------------------|
-| [Home Yoga Paris]()       | 8 Rue des Acacias, 75017 Paris, France                   | [View Map](https://maps.app.goo.gl/PWc1QqrNYGgxTKRKA) |
+| [Home Yoga Paris](https://www.tripadvisor.com/Attraction_Review-g187147-d24005738-Reviews-Home_Yoga_Paris-Paris_Ile_de_France.html)       | 8 Rue des Acacias, 75017 Paris, France                   | [View Map](https://maps.app.goo.gl/PWc1QqrNYGgxTKRKA) |
 | [Zen and Sounds](https://www.tripadvisor.com/Attraction_Review-g187147-d16718679-Reviews-Zen_and_Sounds-Paris_Ile_de_France.html)                 | 88 Boulevard de Charonne, 75020 Paris, France                  | [View Map](https://maps.app.goo.gl/1tVnxJm11ErR3uw29) |
 | [Spa La Reserve](https://www.tripadvisor.com/Attraction_Review-g187147-d10859306-Reviews-Spa_La_Reserve-Paris_Ile_de_France.html)           | 42 Av. Gabriel, 75008 Paris, France               | [View Map](https://maps.app.goo.gl/ZsYLoHVsakbErbNb7) |
 
@@ -230,7 +255,7 @@ Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
 | [Holistic Yoga Berlin](https://www.tripadvisor.de/Attraction_Review-g187323-d6652130-Reviews-Holistic_Yoga_Berlin-Berlin.html)                 | Chodowieckistraße 28, 10405 Berlin, Germany                  | [View Map](https://maps.app.goo.gl/xNh4NXmvUw1PT9Bv6) |
 | [Ashtanga Yoga Room](https://www.tripadvisor.de/Attraction_Review-g187323-d9798721-Reviews-Ashtanga_Yoga_Room-Berlin.html)                 | Eitelstraße 85, 10317 Berlin, Germany                    | [View Map](https://maps.app.goo.gl/8rkGB6yUeS95Zh5L9) |
 
-*Source: [Tripadvisor in Berlin](https://www.tripadvisor.de/Attractions-g187323-Activities-c40-t260-Berlin.html)*
+*Source: [Tripadvisor Berlin](https://www.tripadvisor.de/Attractions-g187323-Activities-c40-t260-Berlin.html)*
 
 
 | Device  | Appearance |
@@ -240,28 +265,28 @@ Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
 | Desktop | <img src="documentation/berlin_desktop.png" width="620" height="420"> |
 
 
-## Credits
-- **Favicon** by [DynosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from [FLATICON](https://www.flaticon.com/free-icon/yoga_3456459).
-- **Background image** by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823063/), used under the [Pexels License](https://www.pexels.com/license/).
-- **Yoga icon** from [Flaticon](https://www.flaticon.com/free-icon/yoga_3456459).
-- **Framework**: This website was built primarily using [Bootstrap](https://getbootstrap.com/).
-- **Article** in the block **About** by [Iryna Vizlou](https://www.vezha.org/sport-chy-duhovna-praktyka-shho-take-joga-i-yak-pravylno-neyu-zajmatys/) in Ukrainian translated with [Deepl](https://www.deepl.com/en/translator)
-- In **About block** images:
-- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823075/), used under the [Pexels License](https://www.pexels.com/license/).
-- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/4534689/), used under the [Pexels License](https://www.pexels.com/license/).
-- by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823043/), used under the [Pexels License](https://www.pexels.com/license/).
-- In section **Take your inspiration**:
-- video by [Yoga with Adriene](https://www.youtube.com/@yogawithadriene) from [Youtube](https://www.youtube.com/watch?v=AB3Y-4a3ZrU&t=6s&ab_channel=YogaWithAdriene)
-- video by [Yoga with Kassandra](https://www.youtube.com/@yogawithkassandra) from [Youtube](https://www.youtube.com/watch?v=EvMTrP8eRvM&t=3s&ab_channel=YogawithKassandra)
-- video by [Charlie Follows](https://www.youtube.com/@CharlieFollows) from [Youtube](https://www.youtube.com/watch?v=QcsvuCQd53k&t=2s&ab_channel=CharlieFollows)
-- video by [Yoga With Bird](https://www.youtube.com/@YogaWithBird) from [Youtube](https://www.youtube.com/watch?v=wRAtVLgj-wU&t=2s&ab_channel=YogaWithBird)
-- City yoga club data and images for Dublin, Paris, and Berlin are based on **Tripadvisor** listings, integrated with **Google Maps** embeds for location display.
+### Credits
+- **Favicon & Yoga icon**: [DynosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from [Flaticon](https://www.flaticon.com/free-icon/yoga_3456459).  
+- **Background image**: [Elina Fairytale](https://www.pexels.com/@elly-fairytale/) from [Pexels](https://www.pexels.com/photo/3823063/), used under the [Pexels License](https://www.pexels.com/license/).  
+- **Framework**: [Bootstrap](https://getbootstrap.com/).  
+- **Article in "About" section**: by [Iryna Vizlou](https://www.vezha.org/sport-chy-duhovna-praktyka-shho-take-joga-i-yak-pravylno-neyu-zajmatys/) (Ukrainian), translated with [Deepl](https://www.deepl.com/en/translator).  
+- **Images in "About" section** (all by [Elina Fairytale](https://www.pexels.com/@elly-fairytale/), under [Pexels License](https://www.pexels.com/license/)):  
+  - [Photo 1](https://www.pexels.com/photo/3823075/)  
+  - [Photo 2](https://www.pexels.com/photo/4534689/)  
+  - [Photo 3](https://www.pexels.com/photo/3823043/)  
+- **Videos in "Take your inspiration" section**:  
+  - [Yoga with Adriene](https://www.youtube.com/watch?v=AB3Y-4a3ZrU)  
+  - [Yoga with Kassandra](https://www.youtube.com/watch?v=EvMTrP8eRvM)  
+  - [Charlie Follows](https://www.youtube.com/watch?v=QcsvuCQd53k)  
+  - [Yoga With Bird](https://www.youtube.com/watch?v=wRAtVLgj-wU)  
+- **City yoga clubs (Dublin, Paris, Berlin)**: based on **Tripadvisor** data, integrated with **Google Maps** embeds.  
+
 
 ## Code Validation
 
 ### HTML
 
-I have used the recommended [HTML W3C Validator](https://validator.w3.org/) to validate all of my HTML files.
+Validated with [W3C Validator](https://validator.w3.org/).
 
 | File | Link | Screenshot |
 | --- | --- | --- |
@@ -269,18 +294,18 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org/) to v
 | success.html | [Validate success.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fsuccess.html) | ![screenshot](documentation/success_html.png) |
 | paris.html | [Validate paris.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fparis.html) | ![screenshot](documentation/paris_html.png) |
 | dublin.html | [Validate dublin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fdublin.html) | ![screenshot](documentation/dublin_html.png) |
-| berlin.html | [Validate dublin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fberlin.html) | ![screenshot](documentation/berlin_html.png) |   
+| berlin.html | [Validate berlin.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Fassets%2Fcities%2Fberlin.html) | ![screenshot](documentation/berlin_html.png) |   
 | 404.html | [Validate 404.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2F404.html) | ![screenshot](documentation/404_html.png) |
 
 ### CSS
 
-I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate one my CSS file.
+Validated with [W3C Jigsaw Validator](https://jigsaw.w3.org/css-validator).
 
 | style.css | [Validate style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkaterynakulik.github.io%2Fyoga%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/css.png) |
 
 ### Lighthouse Audit
 
-I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+Tested using **Lighthouse Audit tool**.
 
 | Page | Mobile | Desktop |
 | --- | --- | --- |
@@ -293,4 +318,6 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ### Bugs
 
-There are inaccuracies that I believe could be improved or changed. However, this would require consultation with a designer. Perhaps the blocks of text on the images need to be rearranged. Although I would prefer to hide three quarters of the text under the ‘read more’ button and process it using JavaScript. I did not find any obvious errors.
+- Minor visual inaccuracies may require a designer’s input (e.g., placement of text blocks on images).  
+- Consider hiding long text blocks under a “Read more” button and revealing them with JavaScript for better readability.  
+- No critical functional errors were found. 
