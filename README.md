@@ -281,6 +281,22 @@ Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
   - [Yoga With Bird](https://www.youtube.com/watch?v=wRAtVLgj-wU)  
 - **City yoga clubs (Dublin, Paris, Berlin)**: based on **Tripadvisor** data, integrated with **Google Maps** embeds.  
 
+### Future Improvements
+
+#### 1. Community / Support
+- **User Story:** Find local yoga communities in Dublin.
+- **Tasks:** Create `div.community`, list groups with links and short descriptions, easy to style.
+- **For test:** Users see group info, contacts, links; block is visually separated from studios.
+
+#### 2. Search Functionality
+- **User Story:** Quickly search yoga info or studios by city.
+- **Tasks:** Add search bar, show results dynamically, allow adding new city pages, maintain styling.
+- **For test:** Users search by city, results display existing pages, new pages integrate seamlessly.
+
+#### 3. Success Page
+- **User Story:** Show city links and relevant ads after form submission.
+- **Tasks:** Add city links, integrate responsive advertiser banners, include “Back to Home” button.
+- **For test:** Links and banners are responsive; clicking links navigates correctly; layout stays consistent.
 
 ## Code Validation
 
