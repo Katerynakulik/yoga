@@ -285,7 +285,7 @@ Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
 
 #### 1. Community / Support
 - **User Story:** Find local yoga communities in Dublin.
-- **Tasks:** Create `div.community`, list groups with links and short descriptions, easy to style.
+- **Tasks:** Create section 'community', list groups with links and short descriptions, easy to style.
 - **For test:** Users see group info, contacts, links; block is visually separated from studios.
 
 #### 2. Search Functionality
