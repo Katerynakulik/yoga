@@ -13,6 +13,9 @@ body {
   color: #5c3b1e;
   padding-top: 2em;
 }
+main {
+  flex: 1;
+}
 section {
   scroll-margin-top: 4em;
 }
