@@ -28,9 +28,7 @@ ul,
 ol {
   list-style-type: none;
 }
-.is-hidden {
-  display: none;
-}
+
 .nav-link.active {
   color: inherit !important;
   text-decoration: underline;
