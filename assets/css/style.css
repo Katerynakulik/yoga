@@ -38,6 +38,11 @@ h3 {
 .dropdown-item:hover {
   background-color: #e6d3b3;
 }
+.dropdown-item.active {
+  background-color: #b88b4a;
+  color: #fff;
+  font-weight: 600;
+}
 
 .bg_color {
   background-color: #b88b4a;
