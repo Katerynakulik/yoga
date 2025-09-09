@@ -4,14 +4,18 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Yoga Dublin</title>
+    <!-- Website favicon -->
     <link rel="icon" sizes="180x180" href="../favicon/yoga_icon.png" />
+    <!-- Bootstrap CSS -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
       crossorigin="anonymous"
     />
+    <!-- Custom styles -->
     <link rel="stylesheet" href="../css/style.css" />
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -20,12 +24,14 @@
     />
   </head>
   <body class="d-flex flex-column min-vh-100">
-    <!-- Header -->
-
+    <!-- HEADER -->
     <header>
+      <!-- Navigation bar -->
       <nav class="navbar fixed-top navbar-expand-lg bg_color">
         <div class="container">
+          <!-- Website logo / brand -->
           <a class="navbar-brand" href="../../index.html">Yoga for Yourself</a>
+          <!-- Mobile menu button -->
           <button
             class="navbar-toggler"
             type="button"
@@ -37,6 +43,7 @@
           >
             <span class="navbar-toggler-icon"></span>
           </button>
+          <!-- Navigation links -->
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav ms-auto">
               <li class="nav-item">
@@ -52,6 +59,7 @@
                   >Ask us about yoga</a
                 >
               </li>
+              <!-- Dropdown with city selection -->
               <li class="nav-item dropdown">
                 <a
                   class="nav-link dropdown-toggle"
@@ -79,12 +87,16 @@
         </div>
       </nav>
     </header>
+    <!--  MAIN CONTENT  -->
     <main>
+      <!-- Section with yoga clubs in Dublin -->
       <section class="container my-5">
         <h1 class="h2 text-center mb-4">
           Top 3 Yoga Clubs in Dublin according to Tripadvisor
         </h1>
+        <!-- Cards with images, addresses and Google Maps embeds -->
         <div class="row g-4 justify-content-center align-items-center">
+          <!-- Club 1 -->
           <div class="col-12 col-sm-6 col-lg-4">
             <div class="card h-100">
               <img
@@ -100,6 +112,7 @@
                 <p class="card-text">
                   11 St Stephen's Green, Dublin 2, D02 FY84, Ireland
                 </p>
+                <!-- Embedded Google map -->
                 <div class="ratio ratio-16x9">
                   <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.1944910011216!2d-6.261673487219406!3d53.33977457217196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9959f65cb7%3A0x89570934d41a9909!2s11%20St%20Stephen&#39;s%20Green%2C%20Dublin%202%2C%20D02%20FY84%2C%20Ireland!5e0!3m2!1sen!2sde!4v1754756129912!5m2!1sen!2sde"
@@ -114,7 +127,7 @@
               </div>
             </div>
           </div>
-
+          <!-- Club 2 -->
           <div class="col-12 col-sm-6 col-lg-4">
             <div class="card h-100">
               <img
@@ -128,6 +141,7 @@
               <div class="card-body">
                 <h5 class="card-title">YogaHub</h5>
                 <p class="card-text">Co. Dublin, K67 P9C5, Ireland</p>
+                <!-- Embedded Google map -->
                 <div class="ratio ratio-16x9">
                   <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2375.5319356309806!2d-6.224294387213365!3d53.45895287220677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4867110a073b91db%3A0xefa62cab4a70dd0d!2syogahub%20Swords!5e0!3m2!1sen!2sde!4v1754756361218!5m2!1sen!2sde"
@@ -142,7 +156,7 @@
               </div>
             </div>
           </div>
-
+          <!-- Club 3 -->
           <div class="col-12 col-sm-6 col-lg-4">
             <div class="card h-100">
               <img
@@ -158,6 +172,7 @@
                 <p class="card-text">
                   20 Camden Row, Portobello, Dublin 8, Ireland
                 </p>
+                <!-- Embedded Google map -->
                 <div class="ratio ratio-16x9">
                   <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.3839502315936!2d-6.271306587219563!3d53.336382872170795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670c205b04e8f9%3A0x3ae7f85f1842781b!2s20%20Camden%20Row%2C%20Portobello%2C%20Dublin%208%2C%20D08%20H294%2C%20Ireland!5e0!3m2!1sen!2sde!4v1754756580025!5m2!1sen!2sde"
@@ -175,8 +190,10 @@
         </div>
       </section>
     </main>
+    <!--  FOOTER  -->
     <footer class="bg_color text-center py-4">
       <h2 class="visually-hidden">Yoga resources and external links</h2>
+      <!-- External links list -->
       <ul
         class="d-flex flex-column flex-sm-row justify-content-center align-items-stretch gap-4"
       >
@@ -212,7 +229,7 @@
         </li>
       </ul>
     </footer>
-
+    <!-- Bootstrap JS bundle -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
