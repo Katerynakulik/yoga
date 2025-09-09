@@ -24,6 +24,10 @@ h3 {
   letter-spacing: 2px;
   color: #5c3b1e;
 }
+ul,
+ol {
+  list-style-type: none;
+}
 .is-hidden {
   display: none;
 }
@@ -72,5 +76,6 @@ h3 {
 .btn:focus {
   background-color: #b88b4a;
 }
-@media (min-width: 992px) {
+.footer-links {
+  gap: 10px;
 }
