@@ -1,20 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
-:root{
-  --light-beige: #F5F0E6;
-  --sand: #E6D3B3;
-  --caramel: #B88B4A;
-  --dark-brown: #5C3B1E;
-  --milky-white: #FFFDF7;
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap");
+:root {
+  --light-beige: #f5f0e6;
+  --sand: #e6d3b3;
+  --caramel: #b88b4a;
+  --dark-brown: #5c3b1e;
+  --milky-white: #fffdf7;
 }
-
 
 body {
   font-family: "Funnel Display", sans-serif;
-  background-color: #E6D3B3;
-  color: #5C3B1E;;
+  background-color: #e6d3b3;
+  color: #5c3b1e;
   padding-top: 2em;
 }
-section{
+section {
   scroll-margin-top: 4em;
 }
 h1,
@@ -23,46 +22,50 @@ h3 {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #5C3B1E;;
+  color: #5c3b1e;
 }
-.is-hidden{
+.is-hidden {
   display: none;
 }
-.nav-item:hover{
+.nav-link.active {
+  color: inherit !important;
+  text-decoration: underline;
+  font-weight: normal;
+}
+.nav-item:hover {
   text-decoration: underline;
 }
-.dropdown-item:hover{
-  background-color: #E6D3B3;
+.dropdown-item:hover {
+  background-color: #e6d3b3;
 }
 
-.bg_color{
-  background-color: #B88B4A;
+.bg_color {
+  background-color: #b88b4a;
 }
 .hidden-heading {
   display: none;
 }
-#hero{
-    background-image: url(../images/hero-bg.jpg);
-    background-size: cover;
-    background-position: 50% 70%;
-    height: 600px;
-    width: 100%;
-    padding: 5% 7%;
-    
+#hero {
+  background-image: url(../images/hero-bg.jpg);
+  background-size: cover;
+  background-position: 50% 70%;
+  height: 600px;
+  width: 100%;
+  padding: 5% 7%;
 }
-#cover-text{
-    background-color: rgba(154, 119, 55, 0.6);
-    line-height: 1.5;
-    color: #FFFDF7;
+#cover-text {
+  background-color: rgba(154, 119, 55, 0.6);
+  line-height: 1.5;
+  color: #fffdf7;
 }
-.btn{
-  background-color: #5C3B1E;
+.btn {
+  background-color: #5c3b1e;
   border: #252525;
-  color: #F5F0E6;
+  color: #f5f0e6;
 }
 .btn:hover,
-.btn:focus{
-  background-color: #B88B4A;
+.btn:focus {
+  background-color: #b88b4a;
 }
-@media (min-width: 992px){
+@media (min-width: 992px) {
 }
