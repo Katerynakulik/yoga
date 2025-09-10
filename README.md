@@ -193,14 +193,15 @@ It serves as a confirmation that the message was received and expresses gratitud
 - Responsive design – built with Bootstrap for compatibility across mobile, tablet, and desktop.
 - Fixed navigation bar – includes quick links to main sections (About, First try, Ask us about yoga) and a dropdown to find local yoga groups (Dublin, Paris, Berlin).
 - Hero section – centered message with a large “Thank you!” heading and a short follow-up text.
+- The button on the main section facilitates easy navigation back to the main page.
 - Brand identity – custom favicon, Google Fonts integration (Funnel Display, Oswald, Raleway, Roboto) for consistent typography.
 
 _Purpose_:
 To confirm a successful form submission, maintain consistent navigation, and encourage visitors to continue exploring yoga content on the site.
 | Device | Appearance |
 |---------|------------|
-| Mobile | <img src="documentation/success_mobile.png" width="390" height="844"> |
-| Tablet | <img src="documentation/success-tablet.png" width="1024" height="768">|
+| Mobile | <img src="documentation/success_mobile.png" width="195" height="422"> |
+| Tablet | <img src="documentation/success-tablet.png" width="512" height="384">|
 | Desktop | <img src="documentation/success_desktop.png" width="620" height="420"> |
 
 ### 404 Error Page
@@ -213,6 +214,7 @@ It informs the visitor that the page could not be found and keeps the main site 
 - Responsive design – built with Bootstrap to adapt across all screen sizes.
 - Fixed navigation bar – includes links to the main sections (About, First try, Ask us about yoga) and a dropdown menu for city-specific yoga groups (Dublin, Paris, Berlin).
 - Hero section – clear and minimal message: “Error 404 – This page does not exist.”
+- The button on the main section facilitates easy navigation back to the main page.
 - Consistent branding – same color scheme, typography, and favicon as the rest of the site.
 
 _Purpose_:
@@ -220,8 +222,8 @@ To provide a friendly and branded error page that prevents visitors from leaving
 
 | Device  | Appearance                                                         |
 | ------- | ------------------------------------------------------------------ |
-| Mobile  | <img src="documentation/404_mobile.png" width="100" height="160">  |
-| Tablet  | <img src="documentation/404_tablet.png" width="400" height="200">  |
+| Mobile  | <img src="documentation/404_mobile.png" width="195" height="422">  |
+| Tablet  | <img src="documentation/404_tablet.png" width="512" height="384">  |
 | Desktop | <img src="documentation/404_desktop.png" width="620" height="420"> |
 
 ### 📍 City Pages (Paris, Dublin, Berlin)
