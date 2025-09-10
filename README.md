@@ -1,6 +1,6 @@
 # 🧘 Yoga Website
 
-This is a website for people who are just starting to get into yoga or are looking for a community in **Paris, Dublin, or Berlin** to practise yoga in a group. You can get more info about yoga in these cities or about the practice in general by asking the website. The website features an article about yoga practice for beginners, combining it with meditation, nutrition, general information about yoga classes, and yoga for pregnant women. Accordingly, the target audience is mostly women who would like to try it.
+This is a website for people who are just starting to get into yoga or are looking for a community in **Paris, Dublin, or Berlin** to practise yoga in a group. You can get more information about yoga in these cities or about the practice in general through the website. The website features an article about yoga practice for beginners, combining it with meditation, nutrition, general information about yoga classes, and yoga for pregnant women. Accordingly, the target audience is mostly women who would like to try it.
 
 ![4 different screens](documentation/4_different_views.png)
 
@@ -24,7 +24,7 @@ Source: [Techsini Multi Device Website Mockup Generator](http://techsini.com/mul
 
 The strategy was to create a simple, visually calming, and easy-to-navigate website that introduces beginners to yoga through a combination of informative text, images, and beginner-friendly videos.
 
-The scope of features I wanted to include were:
+Scopes of features I wanted to include were:
 
 An introductory article explaining what yoga is and how it is practiced (targeted at new practitioners).
 
