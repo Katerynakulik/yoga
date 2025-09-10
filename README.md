@@ -177,6 +177,12 @@ This section provides useful external resources for yoga enthusiasts. The footer
 
 All links open in a new tab and include proper rel attributes (noopener noreferrer) for security.
 
+| Device  | Appearance                                                       |
+| ------- | ---------------------------------------------------------------- |
+| Mobile  | <img src="documentation/footer_m.jpg" width="390" height="200">  |
+| Tablet  | <img src="documentation/footer_t.png" width="600" height="100">  |
+| Desktop | <img src="documentation/footer_d.png" width="1300" height="160"> |
+
 ### Thank You Page
 
 This page is displayed after a user successfully submits the contact form.
@@ -193,8 +199,8 @@ _Purpose_:
 To confirm a successful form submission, maintain consistent navigation, and encourage visitors to continue exploring yoga content on the site.
 | Device | Appearance |
 |---------|------------|
-| Mobile | <img src="documentation/success_mobile.png" width="100" height="160"> |
-| Tablet | <img src="documentation/success-tablet.png" width="400" height="200">|
+| Mobile | <img src="documentation/success_mobile.png" width="390" height="844"> |
+| Tablet | <img src="documentation/success-tablet.png" width="1024" height="768">|
 | Desktop | <img src="documentation/success_desktop.png" width="620" height="420"> |
 
 ### 404 Error Page
