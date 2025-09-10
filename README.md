@@ -249,11 +249,11 @@ Top 3 Yoga Clubs in Dublin (according to Tripadvisor)
 
 _Source: [Tripadvisor Dublin](https://www.tripadvisor.com/Attractions-g186605-Activities-c40-t260-Dublin_County_Dublin.html)_
 
-| Device  | Appearance                                                                                                                                         |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mobile  | <img src="documentation/dublin_mobile_1.png" width="100" height="160"> <img src="documentation/dublin_mobile_1.png" width="100" height="160">      |
-| Tablet  | <img src="documentation/dublin_tablet_horizont.png" width="400" height="200"> <img src="documentation/dublin_tablet.png" width="200" height="400"> |
-| Desktop | <img src="documentation/dublin_desktop.png" width="620" height="420">                                                                              |
+| Device  | Appearance                                                                                                                                                                                                                  |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mobile  | <img src="documentation/dublin_mobile_1.png" width="100" height="160"> <img src="documentation/dublin_mobile_2.png" width="100" height="160">                                                                               |
+| Tablet  | <img src="documentation/dublin_tablet_horizont.png" width="350" height="200"> <img src="documentation/dublin_tablet_1.png" width="200" height="400"> <img src="documentation/dublin_tablet_2.png" width="200" height="400"> |
+| Desktop | <img src="documentation/dublin_desktop.png" width="620" height="380">                                                                                                                                                       |
 
 ---
 
@@ -267,11 +267,11 @@ Top 3 Yoga Clubs in Paris (according to Tripadvisor)
 
 _Source: [Tripadvisor Paris](https://www.tripadvisor.com/Attractions-g187147-Activities-c40-t260-Paris_Ile_de_France.html/)_
 
-| Device  | Appearance                                                                                                                                         |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mobile  | <img src="documentation/paris_mobile_1.png" width="100" height="160"> <img src="documentation/paris_mobile_2.png" width="100" height="160">        |
-| Tablet  | <img src="documentation/paris_tablet_horizont.png" width="400" height="200"> <img src="documentation/paris_tablet_1.png" width="200" height="400"> |
-| Desktop | <img src="documentation/paris_desktop.png" width="620" height="420">                                                                               |
+| Device  | Appearance                                                                                                                                                                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mobile  | <img src="documentation/paris_mobile_1.png" width="100" height="160"> <img src="documentation/paris_mobile_2.png" width="100" height="160">                                                                              |
+| Tablet  | <img src="documentation/paris_tablet_horizont.png" width="350" height="200"> <img src="documentation/paris_tablet_1.png" width="200" height="400"> <img src="documentation/paris_tablet_2.png" width="200" height="400"> |
+| Desktop | <img src="documentation/paris_desktop.png" width="620" height="420">                                                                                                                                                     |
 
 ---
 
@@ -285,11 +285,11 @@ Top 3 Yoga Clubs in Berlin (according to Tripadvisor)
 
 _Source: [Tripadvisor Berlin](https://www.tripadvisor.de/Attractions-g187323-Activities-c40-t260-Berlin.html)_
 
-| Device  | Appearance                                                                                                                                         |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mobile  | <img src="documentation/berlin_mobile_1.png" width="100" height="160"> <img src="documentation/berlin_mobile_2.png" width="100" height="160">      |
-| Tablet  | <img src="documentation/berlin_tablet_horizont.png" width="400" height="200"> <img src="documentation/berlin_tablet.png" width="200" height="400"> |
-| Desktop | <img src="documentation/berlin_desktop.png" width="620" height="420">                                                                              |
+| Device  | Appearance                                                                                                                                                                                                                  |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mobile  | <img src="documentation/berlin_mobile_1.png" width="100" height="160"> <img src="documentation/berlin_mobile_2.png" width="100" height="160">                                                                               |
+| Tablet  | <img src="documentation/berlin_tablet_horizont.png" width="350" height="200"> <img src="documentation/berlin_tablet_1.png" width="200" height="380"> <img src="documentation/berlin_tablet_2.png" width="200" height="380"> |
+| Desktop | <img src="documentation/berlin_desktop.png" width="620" height="400">                                                                                                                                                       |
 
 ### Credits
 
