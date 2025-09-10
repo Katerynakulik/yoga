@@ -110,7 +110,7 @@ The hero section greets visitors with an inspiring quote from The Bhagavad Gita,
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Mobile  | <img src="documentation/hero_mobile_1.png" width="110" height="160"> <img src="documentation/hero_mobile_2.png" width="110" height="160"> |
 | Tablet  | <img src="documentation/hero_tablet_1.png" width="400" height="200">                                                                      |
-| Desktop | <img src="documentation/hero-desktop.png" width="620" height="420">                                                                       |
+| Desktop | <img src="documentation/hero-desktop.png" width="820" height="420">                                                                       |
 
 ### About section or How to practice Yoga correctly?
 
@@ -166,6 +166,16 @@ The form submits data to a success page (success.html) and is styled with Bootst
 | Mobile  | <img src="documentation/form_mobile.png" width="100" height="160">   |
 | Tablet  | <img src="documentation/form_tablet.png" width="400" height="200">   |
 | Desktop | <img src="documentation/try_desktop_1.png" width="620" height="420"> |
+
+### Footer
+
+This section provides useful external resources for yoga enthusiasts. The footer is designed with a responsive layout and includes the following links:
+
+- [Everything for Practice](https://www.yogashop.nl/) – directs users to a yoga shop offering equipment and supplies.
+- [Meditation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10919407/) – links to a research article on meditation benefits.
+- [Online Teacher Training](https://asanaathome.com/online-yoga-teacher-training/) – provides access to online yoga teacher training programs.
+
+All links open in a new tab and include proper rel attributes (noopener noreferrer) for security.
 
 ### Thank You Page
 
@@ -224,10 +234,10 @@ Help newcomers quickly find local yoga communities and places to practice.
 Top 3 Yoga Clubs in Dublin (according to Tripadvisor)
 
 | Club Name                                                                                                                                       | Address                                            | Google Maps Link                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------- | --- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------- |
 | [Anahata](https://www.tripadvisor.com/Attraction_Review-g186605-d2218126-Reviews-Anahata-Dublin_County_Dublin.html)                             | 11 St Stephen's Green, Dublin 2, D02 FY84, Ireland | [View Map](https://maps.app.goo.gl/kPwrVpm5r5bL1h9r9) |
-| [YogaHub](https://www.tripadvisor.com/Attraction_Review-g186605-d7700974-Reviews-YogaHub-Dublin_County_Dublin.html)                             | Co. Dublin, K67 P9C5, Ireland                      | [View Map](https://maps.app.goo.gl/5xjbGmEsAxFKbtMa7) |     |
-| [Live & Breathe Pilates](https://www.tripadvisor.com/Attraction_Review-g186605-d4366798-Reviews-Live_Breathe_Pilates-Dublin_County_Dublin.html) | 20 Camden Row, Portobello, Dublin 8, Ireland       | [View Map](https://maps.app.goo.gl/1nvwMQf6Z6YxkzFh6) |     |
+| [YogaHub](https://www.tripadvisor.com/Attraction_Review-g186605-d7700974-Reviews-YogaHub-Dublin_County_Dublin.html)                             | Co. Dublin, K67 P9C5, Ireland                      | [View Map](https://maps.app.goo.gl/5xjbGmEsAxFKbtMa7) |
+| [Live & Breathe Pilates](https://www.tripadvisor.com/Attraction_Review-g186605-d4366798-Reviews-Live_Breathe_Pilates-Dublin_County_Dublin.html) | 20 Camden Row, Portobello, Dublin 8, Ireland       | [View Map](https://maps.app.goo.gl/1nvwMQf6Z6YxkzFh6) |
 
 _Source: [Tripadvisor Dublin](https://www.tripadvisor.com/Attractions-g186605-Activities-c40-t260-Dublin_County_Dublin.html)_
 
