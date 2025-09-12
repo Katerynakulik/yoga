@@ -1,4 +1,6 @@
+/* === Google Fonts import === */
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap");
+/* === The main colours of the project === */
 :root {
   --light-beige: #f5f0e6;
   --sand: #e6d3b3;
@@ -6,19 +8,25 @@
   --dark-brown: #5c3b1e;
   --milky-white: #fffdf7;
 }
-
+/* === Basic styles for body === */
 body {
   font-family: "Funnel Display", sans-serif;
   background-color: #e6d3b3;
   color: #5c3b1e;
   padding-top: 2em;
 }
+/* === Main container === 
+   Allows the footer to stick to the bottom (flex-grow). */
 main {
   flex: 1;
 }
+/* === Scroll margin === 
+   When navigating via anchor links, sections will not be closed by the header. */
 section {
   scroll-margin-top: 4em;
 }
+/* === Headings ===  */
+
 h1,
 h2,
 h3 {
@@ -27,13 +35,14 @@ h3 {
   letter-spacing: 2px;
   color: #5c3b1e;
 }
+/* === Lists: standard markers are removed. ===  */
 ul,
 ol {
   list-style-type: none;
 }
-
+/* === Navigation === */
 .nav-link.active {
-  color: inherit !important;
+  color: inherit !important; /* leaves the colour as in the parent element, overrides Bootstrap styles */
   text-decoration: underline;
   font-weight: normal;
 }
@@ -48,13 +57,11 @@ ol {
   color: #fff;
   font-weight: 600;
 }
-
+/* === Coloured background for navigation and footer === */
 .bg_color {
   background-color: #b88b4a;
 }
-.hidden-heading {
-  display: none;
-}
+/* === Hero section: background image, size and position ===  */
 #hero {
   background-image: url(../images/hero-bg.jpg);
   background-size: cover;
@@ -63,11 +70,13 @@ ol {
   width: 100%;
   padding: 5% 7%;
 }
+/* === Text over background in hero ===  */
 #cover-text {
   background-color: rgba(154, 119, 55, 0.6);
   line-height: 1.5;
   color: #fffdf7;
 }
+/* === Buttons === */
 .btn {
   background-color: #5c3b1e;
   border: #252525;
@@ -77,6 +86,7 @@ ol {
 .btn:focus {
   background-color: #b88b4a;
 }
+/* === Footer links:  distance between list items === */
 .footer-links {
   gap: 10px;
 }
