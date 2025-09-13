@@ -370,35 +370,58 @@ Tested using **Lighthouse Audit tool**.
 
 ## 🚀 Deployment
 
-### 1. Clone the repository
+### 1. Create a repository from this project
+
+To use this project as a base, fork this repository or create a new repository by importing it into your own GitHub account.  
+_(In this example the repository name is `yoga`. When applying the steps to your own project, replace it with your repository name.)_
+
+### 2. Clone the repository
 
 ```bash
 git clone https://github.com/Katerynakulik/yoga.git
-cd your-repository
 ```
 
-### 2. Navigate into the project folder
+(Replace this URL with the URL of your own repository after forking or importing.)
+
+### 3. Navigate into the project folder
 
 ```bash
-cd <yoga>
+
+cd yoga
 ```
 
-### 3. Open the project locally
+(The folder name will match your repository name.)
 
-Open the index.html file in a web browser or use a local development server (for example, Live Server in VS Code).
+### 4. Open the project locally.
 
-### 4. Deployment on GitHub Pages
+Open the index.html file directly in a web browser, or run the project using a local development server (for example, the Live Server extension in VS Code).
 
-Commit and push latest changes to the main branch:
+### 5. Deploy on GitHub Pages
+
+1. Commit and push the latest changes to the main branch:
 
 ```bash
+
 git add .
 git commit -m "Prepare for deployment"
 git push origin main
 ```
 
-- Go to repository on GitHub.
-- Open Settings → Pages.
-- Under Branch, select main and /root folder.
-- Save the settings.
-- Site is available at: https://github.com/Katerynakulik/yoga/
+2. Open the repository on GitHub and go to:
+   Settings → Pages.
+
+3. In the Branch section, select:
+
+- Branch: main
+- Folder: /root
+
+4. Save the settings.
+
+5. The site will be available at:
+
+```
+https://<username>.github.io/<repository-name>/
+```
+
+(In this project the deployed site is available at
+https://katerynakulik.github.io/yoga/ — in your case, replace <username> and <repository-name> with your own GitHub details.)
